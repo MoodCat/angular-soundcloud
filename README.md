@@ -1,4 +1,4 @@
-Anguar Soundcloud API
+Angular Soundcloud API
 ------------
 
 Because we could not get the Soundcloud SDK to work properly with Angular and ui-router, we decided to build a new Soundcloud API wrapper for Angular.
